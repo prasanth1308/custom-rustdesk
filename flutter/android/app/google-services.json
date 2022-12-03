@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "768133699366",
-    "firebase_url": "https://rustdesk.firebaseio.com",
-    "project_id": "rustdesk",
-    "storage_bucket": "rustdesk.appspot.com"
+    "project_number": "482282759758",
+    "project_id": "utopian-hearth-367913",
+    "storage_bucket": "utopian-hearth-367913.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:768133699366:android:5fc9015370e344457993e7",
+        "mobilesdk_app_id": "1:482282759758:android:bd865bb7a4c3cdf3ce851f",
         "android_client_info": {
-          "package_name": "com.carriez.flutter_hbb"
+          "package_name": "com.solutionsquad.remoteaccess"
         }
       },
       "oauth_client": [
         {
-          "client_id": "768133699366-s9gdfsijefsd5g1nura4kmfne42lencn.apps.googleusercontent.com",
+          "client_id": "482282759758-c1t46gad45j2g4mkol08i4nbkha6ttll.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAPOsKcXjrAR-7Z148sYr_gdB_JQZkamTM"
+          "current_key": "AIzaSyC6gzCdNjBz0hJNXhj3Z9tNHLx90SLgNww"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "768133699366-s9gdfsijefsd5g1nura4kmfne42lencn.apps.googleusercontent.com",
+              "client_id": "482282759758-c1t46gad45j2g4mkol08i4nbkha6ttll.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

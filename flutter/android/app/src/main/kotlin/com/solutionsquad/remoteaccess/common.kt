@@ -1,4 +1,4 @@
-package com.carriez.flutter_hbb
+package com.solutionsquad.remoteaccess
 
 import android.annotation.SuppressLint
 import android.content.Context
